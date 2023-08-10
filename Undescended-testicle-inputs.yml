@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/undescended-testicle-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/undescended-testicle---primary.py
+inputModule4:
+  class: File
+  path: python/testicle---primary.py
+inputModule5:
+  class: File
+  path: python/undescended-testicle-cryptorchidism---primary.py
+inputModule6:
+  class: File
+  path: python/bilateral-undescended-testicle---primary.py
+inputModule7:
+  class: File
+  path: python/maldescent-undescended-testicle---primary.py
+inputModule8:
+  class: File
+  path: python/undescended-testicle-history---primary.py
+inputModule9:
+  class: File
+  path: python/testicle-undescended---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
